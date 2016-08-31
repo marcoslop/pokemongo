@@ -9,5 +9,5 @@ pokemon of each type.
 
 Based in https://github.com/Grover-c13/PokeGOAPI-Java
 
-First time you execute any of the scripts, a token from Google will be asked. This refresh token will be saved in a txt
-file and in next executions it won´t be able to enter it again.
+First time you execute any of the scripts, a token from Google will be asked. This token will be saved in a txt
+file and in following executions it won´t be required to enter it again.
